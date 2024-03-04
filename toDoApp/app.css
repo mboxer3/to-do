@@ -1,0 +1,22 @@
+/* List */
+ul {
+    Margin: 15px 15px 5px 15px;
+    padding-left: 0;
+    max-width: 200px;
+  }
+  
+  li {
+    list-style-type: none;
+    margin: 5px 0;
+    width: 100%;
+  }
+  
+  li button {
+    float: right;
+  }
+  
+  /* Typography */
+  .checked {
+    color: gray;
+    text-decoration: line-through;
+  }
